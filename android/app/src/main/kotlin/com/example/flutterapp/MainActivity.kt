@@ -1,4 +1,4 @@
-package com.example.sikojon
+package com.example.flutterapp
 
 import io.flutter.embedding.android.FlutterActivity
 
